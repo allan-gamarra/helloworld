@@ -1,5 +1,5 @@
 # helloworld
 
-Esse é o meu primeiro código no github.
+Esse é o meu primeiro projeto JS.
 
 by Allan Gamarra
